@@ -1,1 +1,1 @@
-# brainyac-project
+# BRAINYAC Project
